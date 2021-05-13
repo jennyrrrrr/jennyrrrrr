@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I think there's a fault in my code~🌟
+
 <!--
 **jennyrrrrr/jennyrrrrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
