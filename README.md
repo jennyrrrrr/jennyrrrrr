@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I think there's a fault in my code~🌟
+love is 0，but 0 is a start.
+
+<!-- I think there's a fault in my code~🌟 -->
 
 <!-- <div style="display:flex; align-items: flex-start;"> -->
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jennyrrrrr&hide=css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /> -->
