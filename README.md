@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-love is 0，but 0 is a start.
+yeahh.
 
 <!-- I think there's a fault in my code~🌟 -->
 
