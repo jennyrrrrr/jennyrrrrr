@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-yeahh.
+출구 없는 방 안에
+사방이 너란 거울이야.
 
 <!-- I think there's a fault in my code~🌟 -->
 
