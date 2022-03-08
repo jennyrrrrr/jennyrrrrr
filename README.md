@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-hope you are having a nice day 💖
+I hope you are having a nice day 💖
 
 <!-- I think there's a fault in my code~🌟 -->
 
